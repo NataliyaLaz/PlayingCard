@@ -47,8 +47,9 @@
 			isa = PBXGroup;
 			children = (
 				88A0971128B50F730077A3CC /* PlayingCard.swift */,
-				8833AC3D28B619280078D66D /* PlayingCardView.swift */,
 				88A0971328B514D00077A3CC /* PlayingCardDeck.swift */,
+				8833AC3D28B619280078D66D /* PlayingCardView.swift */,
+				88A0971028B50F200077A3CC /* Supporting Files */,
 				88A096FB28B50EF30077A3CC /* PlayingCard */,
 				88A096FA28B50EF30077A3CC /* Products */,
 			);
@@ -65,7 +66,6 @@
 		88A096FB28B50EF30077A3CC /* PlayingCard */ = {
 			isa = PBXGroup;
 			children = (
-				88A0971028B50F200077A3CC /* Supporting Files */,
 				88A0970028B50EF30077A3CC /* ViewController.swift */,
 				88A0970228B50EF30077A3CC /* Main.storyboard */,
 				88A0970528B50EF40077A3CC /* Assets.xcassets */,
