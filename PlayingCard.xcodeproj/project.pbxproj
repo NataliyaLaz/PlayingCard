@@ -17,6 +17,7 @@
 		88A0970928B50EF40077A3CC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 88A0970728B50EF40077A3CC /* LaunchScreen.storyboard */; };
 		88A0971228B50F730077A3CC /* PlayingCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88A0971128B50F730077A3CC /* PlayingCard.swift */; };
 		88A0971428B514D00077A3CC /* PlayingCardDeck.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88A0971328B514D00077A3CC /* PlayingCardDeck.swift */; };
+		88BC013728C7351B003F0803 /* CMMotionManager+shared.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88BC013628C7351B003F0803 /* CMMotionManager+shared.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		88A0970A28B50EF40077A3CC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		88A0971128B50F730077A3CC /* PlayingCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlayingCard.swift; sourceTree = "<group>"; };
 		88A0971328B514D00077A3CC /* PlayingCardDeck.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlayingCardDeck.swift; sourceTree = "<group>"; };
+		88BC013628C7351B003F0803 /* CMMotionManager+shared.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "CMMotionManager+shared.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 			children = (
 				88A0970028B50EF30077A3CC /* ViewController.swift */,
 				8886EFFB28B7BD7E00220A16 /* CardBehavior.swift */,
+				88BC013628C7351B003F0803 /* CMMotionManager+shared.swift */,
 				88A0971128B50F730077A3CC /* PlayingCard.swift */,
 				8833AC3D28B619280078D66D /* PlayingCardView.swift */,
 				88A0971328B514D00077A3CC /* PlayingCardDeck.swift */,
@@ -160,6 +163,7 @@
 			files = (
 				88A0970128B50EF30077A3CC /* ViewController.swift in Sources */,
 				8833AC3E28B619280078D66D /* PlayingCardView.swift in Sources */,
+				88BC013728C7351B003F0803 /* CMMotionManager+shared.swift in Sources */,
 				88A096FD28B50EF30077A3CC /* AppDelegate.swift in Sources */,
 				88A0971428B514D00077A3CC /* PlayingCardDeck.swift in Sources */,
 				88A0971228B50F730077A3CC /* PlayingCard.swift in Sources */,
